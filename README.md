@@ -28,7 +28,7 @@ Agent Address: agent://agent1qfve7skhnhmpwg9ff97nrc0uggwstpzlz7uj9awvunrkql6pj02
 - **Styling**: Custom gradient design with glassmorphism effects
 - **Icons**: Lucide React
 - **State Management**: React hooks for local state
-
+class Main { public static void main(String[] args) { System.out.println("Forked Java!"); } }
 ## 📊 Fund Mechanics
 
 ### How It Works
